@@ -15,7 +15,7 @@ const Tree = () => {
             <div className=" font-bold text-green-500 text-2xl  font-bricolage ">
               <span className=" text-gray-600">Link</span>Free
             </div>
-            <a href="" target=" _blank">
+            <a href="https://github.com/rinkitadhana/LinkFree" target=" _blank">
               <div className="flex flex-row gap-1 px-2 py-1 bg-black/40 w-fit items-center rounded-lg font-medium text-white text-sm hover:bg-black/30 ">
                 <i className="fa-solid fa-star text-yellow-400"></i>
                 <div>on Github</div>
