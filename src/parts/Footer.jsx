@@ -11,7 +11,7 @@ const Footer = () => {
           </div>
         </a>
         <div>Let's LinkIt up!</div>
-        <div>©2024 LinkFree || All Rights Reserved</div>
+        <div>©2024 LinkIt || All Rights Reserved</div>
         <div>
           Made by{" "}
           <a
