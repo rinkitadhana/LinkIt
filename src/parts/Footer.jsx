@@ -7,10 +7,10 @@ const Footer = () => {
           target="_blank"
         >
           <div className="bg-black/70 cursor-pointer hover:bg-black/60 font-semibold text-white rounded-lg p-2 mb-5">
-            Make your Link<span className=" text-green-500">Free</span>
+            Make your Link<span className=" text-green-500">It</span>
           </div>
         </a>
-        <div>Thank You for Visiting!</div>
+        <div>Let's LinkIt up!</div>
         <div>©2024 LinkFree || All Rights Reserved</div>
         <div>
           Made by{" "}
