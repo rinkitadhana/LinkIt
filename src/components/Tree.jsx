@@ -1,3 +1,4 @@
+import Coffee from "../parts/BuyMeACofee";
 import Footer from "../parts/Footer";
 import Header from "../parts/Header";
 import Links from "../parts/Links";
@@ -26,12 +27,13 @@ const Tree = () => {
           <Header img={imgURL} name={name} bio={bio} />
 
           <div>
-            <Links name="Instagram" url="https://www.instagram.com/rnkktt/" />
-            <Links name="Instagram" url="https://www.instagram.com/rnkktt/" />
-            <Links name="Instagram" url="https://www.instagram.com/rnkktt/" />
+            <Links name="Link" url="" />
+            <Links name="Link" url="" />
+            <Links name="Link" url="" />
           </div>
           <Footer />
         </div>
+        <Coffee />
       </div>
     </div>
   );
