@@ -4,7 +4,7 @@ const Header = (props) => {
       <div className="flex flex-col items-center gap-3">
         <div>
           <img
-            className=" rounded-full size-24 transform transition duration-500 hover:scale-110 "
+            className=" rounded-full size-24 transform transition duration-500 hover:scale-110 object-cover "
             src={props.img}
             alt="USERS_PROFILE_PIC"
           />
