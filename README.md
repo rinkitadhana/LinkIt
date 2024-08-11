@@ -30,44 +30,40 @@
 </p>
    
 <h4>
-    <a href="">View Demo</a>
+    <a href="https://therinkit-linkit.vercel.app/">View Demo</a>
   <span> · </span>
-    <a href="">Documentation</a>
+    <a href="https://github.com/rinkitadhana/LinkIt/blob/master/README.md">Documentation</a>
   <span> · </span>
-    <a href="">Report Bug</a>
+    <a href="https://github.com/rinkitadhana/LinkIt/issues">Report Bug</a>
   <span> · </span>
-    <a href="">Request Feature</a>
+    <a href="https://github.com/rinkitadhana/LinkIt/issues">Request Feature</a>
   </h4>
 </div>
 
 <br />
 
 <!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
+# Table of Contents
 
-- [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
+- [About the Project](#about-the-project)
+  * [Screenshots](#screenshots)
+  * [Tech Stack](#tech-stack)
+  * [Features](#features)
  
-- [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
+- [Getting Started](#getting-started)
+  * [Make your LinkIt](#make-your-linkit)
 
-- [Contact](#handshake-contact)
+- [Contact](#contact)
 
 
   
 
 <!-- About the Project -->
-## :star2: About the Project
+## About the Project
 
 
 <!-- Screenshots -->
-### :camera: Screenshots
+### Screenshots
 
 <div align="center"> 
   <img src="https://github.com/user-attachments/assets/2f963fea-e891-4e42-a2b1-5452b4cc8074" alt="screenshot" />
@@ -75,7 +71,7 @@
 
 
 <!-- TechStack -->
-### :space_invader: Tech Stack
+### Tech Stack
 
 <details>
   <summary>Client</summary>
@@ -88,7 +84,7 @@
 
 
 <!-- Features -->
-### :dart: Features
+### Features
 
 - It's completely free of cost
 - You can add unlimited links
@@ -97,15 +93,15 @@
 
 
 <!-- Getting Started -->
-## 	:toolbox: Getting Started
+## Getting Started
 
 <!-- Run Locally -->
-### :running: Run Locally
+### Make your LinkIt
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+  git clone git@github.com:rinkitadhana/LinkIt.git
 ```
 
 Go to the project directory
@@ -114,32 +110,51 @@ Go to the project directory
   cd my-project
 ```
 
-Install dependencies
+npm Install
 
 ```bash
-  yarn install
+  npm i
 ```
 
-Start the server
+Run the vite app
 
 ```bash
-  yarn start
+  npm run dev
 ```
 
 
 <!-- Deployment -->
-### :triangular_flag_on_post: Deployment
+### Edits in Code 
 
-To deploy this project run
+- Goto `public/userIMG` and add your profile pic
+- Goto `src/components/Tree.jsx` on line-7 and add your `img URL`, `Name`, and `Bio`.
+  
+  <br />
+  <div align="start"> 
+  <img src="https://github.com/user-attachments/assets/fc1ab771-cab1-4791-aa66-0f08efade33d" alt="tutorial" />
+  </div>
+  
+  <br />
 
-```bash
-  yarn deploy
-```
+  - On the same file goto line-30 and add your link's name and urls.
+  
+   <br />
+   
+  <div align="start"> 
+  <img src="https://github.com/user-attachments/assets/2c83f9d0-a584-4771-aa4f-e217c724978a" alt="tutorial" />
+  </div>
+  
+  <br />
+- Now deploy this code on Vercel- [Youtube](https://www.youtube.com/watch?v=sYL9N5QBcrU)
+
+  ## And, this is how easy it it...
+  
+
 
 
 
 <!-- Contact -->
-## :handshake: Contact
+## Contact
 
 Rinkit Adhana - [@rnkktt](https://x.com/rnkktt) - therinkit@gmail.com
 
