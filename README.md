@@ -147,12 +147,7 @@ Run the vite app
   <br />
 - Now deploy this code on Vercel- [Youtube](https://www.youtube.com/watch?v=sYL9N5QBcrU)
 
-  ## And, this is how easy it it...
-  
-
-
-
-
+  ### And, this is how easy it it...
 <!-- Contact -->
 ## Contact
 
